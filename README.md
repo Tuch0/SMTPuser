@@ -1,11 +1,12 @@
 # SMTPUser.sh
 
-![banner](./banner.png)
+![SMPTUserThumbinal](https://github.com/user-attachments/assets/f0c75d9d-c3a4-41fb-b2a3-72978d5accdf)
+
 
 **SMTPUser** es un script _bash_ que **enumera usuarios válidos** en un servidor SMTP utilizando los comandos `VRFY` o `RCPT TO`.  
 Incluye soporte para **concurrencia**, **timeouts configurables** y **salida en color** al estilo *ffuf/wfuzz*. Su banner ASCII -glitch le da un toque retro, mientras que la ayuda en colores facilita la lectura rápida de las opciones.
 
-> **Autor** · [bytuch0](https://github.com/tuch0)  
+> **Autor** · [Tuch0](https://github.com/tuch0)  
 > **Licencia** · MIT
 
 ---
